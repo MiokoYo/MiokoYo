@@ -1,13 +1,12 @@
 ![Header](https://github.com/MiokoYo/MiokoYo/blob/main/files/3750152.png)
 
-
 ## I'm currently working as a tester at a startup
 I’m keen on learning new information that refers to my sphere of work and developing my skills.
 
-Testing documentation
+## Testing documentation
 
-Languages and tools
-![Postman](https://img.shields.io/badge/:badgeContent?style=plastic&logoColor=orange&logoSize=auto)
+## Languages and tools
+![Postman](https://img.shields.io/badge/postman-orange?style=plastic&logoSize=auto)
 
 
 Follow me
