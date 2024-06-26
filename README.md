@@ -14,8 +14,9 @@ I’m keen on learning new information that refers to my sphere of work and deve
 ![Figma](https://img.shields.io/badge/figma-%237ebdc2?style=for-the-badge&logo=figma&logoColor=black)
 ![Tilda](https://img.shields.io/badge/tilda-%237ebdc2?style=for-the-badge&logo=tilda%20publishing&logoColor=black)
 
-Follow me
+## Follow me
 📫 Always available here anastasiyabond4@gmail.com
+<br>
 [![telegram](https://img.shields.io/badge/telegram-%237ebdc2?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/crystal_tulip)
 [![linkedIn](https://img.shields.io/badge/linkedIn-%237ebdc2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anastasiabond0013/)
 
