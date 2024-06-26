@@ -17,6 +17,7 @@ I’m keen on learning new information that refers to my sphere of work and deve
 ## Follow me
 📫 Always available here anastasiyabond4@gmail.com
 <br>
+<br>
 [![telegram](https://img.shields.io/badge/telegram-%237ebdc2?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/crystal_tulip)
 [![linkedIn](https://img.shields.io/badge/linkedIn-%237ebdc2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anastasiabond0013/)
 
