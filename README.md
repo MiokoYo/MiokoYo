@@ -7,7 +7,7 @@ I’m keen on learning new information that refers to my sphere of work and deve
 Testing documentation
 
 Languages and tools
-![Postman](https://img.shields.io/badge/Postman?style=plastic&logoColor=orange)
+![Postman](https://img.shields.io/badge/:badgeContent?style=plastic&logoColor=orange&logoSize=auto)
 
 
 Follow me
