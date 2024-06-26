@@ -15,10 +15,7 @@ I’m keen on learning new information that refers to my sphere of work and deve
 ![Tilda](https://img.shields.io/badge/tilda-%237ebdc2?style=for-the-badge&logo=tilda%20publishing&logoColor=black)
 
 Follow me
-
-
-- 👋 Hi, I’m Anastasiya
-- 🌱 I'm really into learning English and Japanese.
-- 📫 Always available here anastasiyabond4@gmail.com
-
+📫 Always available here anastasiyabond4@gmail.com
+[![telegram](https://img.shields.io/badge/telegram-%237ebdc2?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/crystal_tulip)
+[![linkedIn](https://img.shields.io/badge/linkedIn-%237ebdc2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anastasiabond0013/)
 
