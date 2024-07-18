@@ -4,6 +4,8 @@
 I’m keen on learning new information that refers to my sphere of work and developing my skills.
 
 ## Testing documentation
+[![Check-lists-and-test-cases](https://img.shields.io/badge/Check_lists-test_cases-lightgreen?style=plastic&logo=notepad
+)(https://github.com/MiokoYo/Check-lists-test-cases)]
 
 ## Languages and tools
 ![Postman](https://img.shields.io/badge/postman-%237ebdc2?style=for-the-badge&logo=postman)
