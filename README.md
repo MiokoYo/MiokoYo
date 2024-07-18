@@ -5,7 +5,7 @@ I’m keen on eveloping my skills and learning new information that refers to my
 
 ## Testing documentation
 [![Check-lists-and-test-cases](https://img.shields.io/badge/Check_lists-test_cases-lightgreen?style=plastic&logo=notepad
-)(https://github.com/MiokoYo/Check-lists-test-cases)]
+)](https://github.com/MiokoYo/Check-lists-test-cases)
 
 ## Languages and tools
 ![Postman](https://img.shields.io/badge/postman-%237ebdc2?style=for-the-badge&logo=postman)
