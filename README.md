@@ -1,7 +1,7 @@
 ![Header](https://github.com/MiokoYo/MiokoYo/blob/main/files/3750152.png)
 
 ## I'm currently working as a tester at a startup
-I’m keen on learning new information that refers to my sphere of work and developing my skills.
+I’m keen on eveloping my skills and learning new information that refers to my work sphere.
 
 ## Testing documentation
 [![Check-lists-and-test-cases](https://img.shields.io/badge/Check_lists-test_cases-lightgreen?style=plastic&logo=notepad
@@ -18,6 +18,7 @@ I’m keen on learning new information that refers to my sphere of work and deve
 
 ## Follow me
 📫 Always available here anastasiyabond4@gmail.com
+<br>
 <br>
 [![telegram](https://img.shields.io/badge/telegram-%237ebdc2?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/crystal_tulip)
 [![linkedIn](https://img.shields.io/badge/linkedIn-%237ebdc2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/anastasiabond0013/)
