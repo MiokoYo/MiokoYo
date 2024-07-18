@@ -1,7 +1,7 @@
 ![Header](https://github.com/MiokoYo/MiokoYo/blob/main/files/3750152.png)
 
 ## I'm currently working as a tester at a startup
-I’m keen on eveloping my skills and learning new information that refers to my work sphere.
+I’m keen on developing my skills and learning new information that refers to my work sphere.
 
 ## Testing documentation
 [![Check-lists-and-test-cases](https://img.shields.io/badge/Check_lists-test_cases-lightgreen?style=plastic&logo=notepad
